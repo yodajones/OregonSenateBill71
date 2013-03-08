@@ -9,6 +9,7 @@ Many RC modelers, including the RC car and truck guys, enjoy attaching a still o
 Some of our Oregon, and recently other state representatives as well, have begun pushing legislature that could very likely cause some of these RC hobbyists activities to become illegal.  In my mind the people proposing these new bills probably have good intentions for protecting the privacy of it's citizens but have chosen some unfortunate wording that is quite broad and could have a negative impact on many hobbyists.
 
 Senator Floyd Prozanski, D-Eugene, Oregon has been quoted as saying "The last thing I think people want to do is look outside their picture window or their bedroom window and see a drone,".  Who does?  I may be mistaken, but don't we already have laws about peering into peoples windows?
+(reference: http://www.oregonlive.com/politics/index.ssf/2013/01/drones_spur_fierce_debate_in_o.html)
 
 I find the word "Drone" is being used frequently and it makes sense that when the uninitiated hear the word Drone they think of evil science fiction or militarized machines.  This is expected when the media more often than not presents content that are related to various war efforts.
 
